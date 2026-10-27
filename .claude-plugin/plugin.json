@@ -1,0 +1,6 @@
+{
+  "name": "barra-consumo",
+  "version": "0.1.0",
+  "description": "Barra de progresso do consumo do plano (janela de 5h e semanal) logo acima do campo do prompt.",
+  "types": "./types/index.d.ts"
+}

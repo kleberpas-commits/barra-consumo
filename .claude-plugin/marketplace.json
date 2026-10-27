@@ -1,0 +1,5 @@
+{
+  "name": "barra-consumo",
+  "owner": { "name": "kleberpas-commits" },
+  "plugins": [{ "name": "barra-consumo", "source": "./" }]
+}
